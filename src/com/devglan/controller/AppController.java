@@ -12,7 +12,7 @@ import com.devglan.model.UserDetails;
 import com.devglan.service.UserService;
 
 @Controller
-public class UserController {
+public class AppController {
 	
 	@Autowired
 	private UserService userService;
